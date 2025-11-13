@@ -99,5 +99,5 @@ platforms:
     name: "抖音"
   - id: "zhihu"
     name: "知乎"
-  - id: "xiaohongshu"
-    name: "小红书"
+  - id: "xueqiu"
+    name: "雪球"
